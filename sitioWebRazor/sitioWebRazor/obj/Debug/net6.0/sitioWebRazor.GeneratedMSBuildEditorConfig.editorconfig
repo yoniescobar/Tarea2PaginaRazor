@@ -23,6 +23,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/YONI/source/repos/Tarea2PaginaRazor/sitioWebRazor/sitioWebRazor/Pages/informacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5mb3JtYWNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/YONI/source/repos/Tarea2PaginaRazor/sitioWebRazor/sitioWebRazor/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
