@@ -1,0 +1,14 @@
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\bin\Debug\net6.0\LibraryAdventureWorksLT.deps.json
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\bin\Debug\net6.0\LibraryAdventureWorksLT.dll
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\bin\Debug\net6.0\LibraryAdventureWorksLT.pdb
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\obj\Debug\net6.0\LibraryAdventureWorksLT.csproj.AssemblyReference.cache
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\obj\Debug\net6.0\LibraryAdventureWorksLT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\obj\Debug\net6.0\LibraryAdventureWorksLT.AssemblyInfoInputs.cache
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\obj\Debug\net6.0\LibraryAdventureWorksLT.AssemblyInfo.cs
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\obj\Debug\net6.0\LibraryAdventureWorksLT.csproj.CoreCompileInputs.cache
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\obj\Debug\net6.0\LibraryAdventureWorksLT.dll
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\obj\Debug\net6.0\refint\LibraryAdventureWorksLT.dll
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\obj\Debug\net6.0\LibraryAdventureWorksLT.pdb
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\obj\Debug\net6.0\ref\LibraryAdventureWorksLT.dll
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\bin\Debug\net6.0\LibraryAdventureWorksLT.runtimeconfig.json
+C:\Users\YONI\source\repos\Tarea2PaginaRazor\LibraryAdventureWorksLT\LibraryAdventureWorksLT\obj\Debug\net6.0\LibraryAdventureWorksLT.genruntimeconfig.cache
